@@ -83,5 +83,4 @@ DELETE /api/follow/{id}/ - удалить подписку
 
 
 Автор:
-Александр Рашкин
-r100aa@yandex.ru
+Александр Рашкин (https://github.com/alexrashkin)
